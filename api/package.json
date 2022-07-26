@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./index.js --exec babel-node -e js"
   },
-  "author": "Emmanuel Henri",
+  "author": "Mosal",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
